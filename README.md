@@ -13,13 +13,13 @@ By Andreas Daskalopoulos
 
 * Copy javascript and use the <script> tag
 
-```javascript
+```xml
 <script type="text/javascript" charset="utf-8" src="sms.js" />
 ```
 
 * Call the plugin, specifying phone and message
 
-```javascript
+```xml
 window.plugins.sms.send(phone, message);
 ```
 
