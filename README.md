@@ -14,7 +14,7 @@ By Andreas Daskalopoulos
 * Copy javascript and use the <script> tag
 
 ```javascript
-<script type="text/javascript" charset="utf-8" src="sms.js"></script>   
+<script type="text/javascript" charset="utf-8" src="sms.js" />
 ```
 
 * Call the plugin, specifying phone and message
